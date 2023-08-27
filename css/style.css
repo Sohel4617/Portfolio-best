@@ -187,6 +187,7 @@ h1,h2,h3{
 .row1 .img-box, .row2 .text-box{
     float: left;
     width: 50%;
+
 }
 .row2 .img-box, .row1 .text-box{
     float: right;
@@ -612,4 +613,36 @@ h1,h2,h3{
     .header{
         height: 90vmax;
     }
+}
+
+
+/* #################### olympic project intro ################ */
+
+span{
+    font-weight: 700;
+}
+
+.intro{
+    font-weight: 700;
+}
+
+
+
+.project h2{
+    font-weight: 700;
+    
+}
+.title{
+    padding: 1rem;
+    font-weight: 700;
+}
+
+.project p{
+    padding: 1rem;
+    letter-spacing: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.button{
+    text-align: center;
 }
