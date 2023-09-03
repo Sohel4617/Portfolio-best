@@ -24,7 +24,7 @@ a{
 p, li{
     font-size: 1.6rem;
     margin-bottom: 0.5em;
-    letter-spacing: 0.15em;
+    
 }
 
 h1,h2,h3{
@@ -256,8 +256,10 @@ h1,h2,h3{
 
 /* ###################### about page styling ##############333 */
 .about{
-    padding: 5rem 0;
+    padding: 5rem 0; 
+    margin-bottom: 2rem;
 }
+
 
 .about-heading::after{
     content: '';
