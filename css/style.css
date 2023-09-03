@@ -160,7 +160,7 @@ h1,h2,h3{
     width: 300px;
     position: absolute;
     top:80%;
-    left: 150%;
+    left: 155%;
     transform: translate(-50%, -50%);
     background: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,1));
     border: 2px solid red;
@@ -257,7 +257,7 @@ h1,h2,h3{
 /* ###################### about page styling ##############333 */
 .about{
     padding: 5rem 0; 
-    margin-bottom: 2rem;
+
 }
 
 
